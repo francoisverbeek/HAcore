@@ -522,7 +522,7 @@ FLOWS = {
         "subaru",
         "suez_water",
         "sun",
-        "sunskynk",
+        "sunsynk",
         "sunweg",
         "surepetcare",
         "swiss_public_transport",
