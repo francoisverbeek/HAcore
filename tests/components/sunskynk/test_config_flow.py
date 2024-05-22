@@ -3,8 +3,8 @@
 from unittest.mock import AsyncMock, patch
 
 from homeassistant import config_entries
-from homeassistant.components.sunskynk.config_flow import CannotConnect, InvalidAuth
-from homeassistant.components.sunskynk.const import DOMAIN
+from homeassistant.components.sunsynk.config_flow import CannotConnect, InvalidAuth
+from homeassistant.components.sunsynk.const import DOMAIN
 from homeassistant.const import CONF_HOST, CONF_PASSWORD, CONF_USERNAME
 from homeassistant.core import HomeAssistant
 from homeassistant.data_entry_flow import FlowResultType
